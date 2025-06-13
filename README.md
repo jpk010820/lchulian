@@ -49,7 +49,7 @@
 ## 📎 获取与支持
 
 - 🔗 官网地址：[https://www.lchulian.com](https://www.lchulian.com)
-- 📝 微信客服：byprogramer
+- 📝 微信客服：fengge18889otc & byprogramer
 - 💼 版本说明：按授权购买，长期更新服务支持
 
 ---
