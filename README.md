@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-org/your-repo/stargazers">
-    <img src="https://img.shields.io/github/stars/your-org/your-repo?style=social" alt="GitHub stars"/>
+  <a href="https://github.com/jpk010820/lchulian/stargazers">
+    <img src="https://img.shields.io/github/stars/jpk010820/lchulian?style=social" alt="GitHub stars"/>
   </a>
 </p>
 
