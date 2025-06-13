@@ -15,9 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/jpk010820/lchulian/stargazers">
-    <img src="https://img.shields.io/github/stars/jpk010820/lchulian?style=social" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/stars/jpk010820/lchulian?style=social" alt="GitHub stars" />
   </a>
 </p>
+
 
 ---
 
