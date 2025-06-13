@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lchulian.com/_nuxt/logo.CE-vU1K-.png" alt="LC互联 Logo" width="200"/>
+  <img src="https://lchulian.com/_nuxt/logo.CE-vU1K-.png" alt="LC互联 Logo" width="200" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">LC互联 · 专业微信AI营销系统</h1>
@@ -48,7 +48,7 @@
 ## 📎 获取与支持
 
 - 🔗 官网地址：[https://www.lchulian.com](https://www.lchulian.com)
-- 📝 联系客服：官网在线咨询或合作洽谈
+- 📝 联系客服：微信 byprogramer
 - 💼 版本说明：按授权购买，长期更新服务支持
 
 ---
