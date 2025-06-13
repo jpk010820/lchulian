@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lchulian.com/_nuxt/logo.CE-vU1K-.png" alt="LC互联 Logo" width="200" style="border-radius: 20px;" />
+  <img src="https://lchulian.com/logo.jpg" alt="LC互联 Logo" width="200" />
 </p>
 
 <h1 align="center">LC互联 · 专业微信AI营销系统</h1>
