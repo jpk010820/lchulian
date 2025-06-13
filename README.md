@@ -48,7 +48,7 @@
 ## 📎 获取与支持
 
 - 🔗 官网地址：[https://www.lchulian.com](https://www.lchulian.com)
-- 📝 联系客服：微信 byprogramer
+- 📝 微信客服：byprogramer
 - 💼 版本说明：按授权购买，长期更新服务支持
 
 ---
